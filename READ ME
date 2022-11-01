@@ -1,0 +1,2 @@
+appium.appActivity=com.swaglabsmobileapp.MainActivity
+appium.package=com.swaglabsmobileapp
